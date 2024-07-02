@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1,being 1
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
+
+#EXTINF:-1,being 2
+http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/index.m3u8
+
+#EXTINF:-1,being 3
+http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
+
+#EXTINF:-1,being s3
+http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,being s2
+http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,being s1
+http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,being sport extra
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+
+#EXTINF:-1,zina tv wild
+http://85.237.89.6:9590/live/zinatvwild/index.m3u8
+
+#EXTINF:-1,super sport cricket
+https://cdn-1.bdiptv24.line.pm/live/SP/index.m3u8
+
+#EXTINF:-1,
