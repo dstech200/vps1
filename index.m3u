@@ -1,49 +1,116 @@
 #EXTM3U
-#EXTINF:-1 tvg-in="azam one" tvg-name="azam one" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FAzam_One&psig=AOvVaw1BaF5fA7lpI9NpuxvGQa2p&ust=1720908053041000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKi71Z3AoocDFQAAAAAdAAAAABAE",azam one
+#EXTINF:-1 tvg-in="azam one" tvg-name="azam one" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Azam%20ONE.png",azam one
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/143247
-#EXTINF:-1 tvg-in="azam two" tvg-name="azam two" tvg-logo="https://i.pinimg.com/280x280_RS/86/3e/74/863e74b66c34896ea651f3cc04afd9b4.jpg",azam two
+#EXTINF:-1 tvg-in="azam two" tvg-name="azam two" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Azam%20TWO.png",azam two
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/143248
-#EXTINF:-1 tvg-in="Azam Sports 1" tvg-name="Azam Sports 1" tvg-logo="Azam_Sports_1.png",Azam Sports 1
+#EXTINF:-1 tvg-in="Azam Sports 1" tvg-name="Azam Sports 1" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Azam%20Sports%201%20HD.png",Azam Sports 1
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/133959
-#EXTINF:-1 tvg-in="Azam Sports 2" tvg-name="Azam Sports 2" tvg-logo="Azam_Sports_2.png",Azam Sports 2
+#EXTINF:-1 tvg-in="Azam Sports 2" tvg-name="Azam Sports 2" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Azam%20Sports%202%20HD.png",Azam Sports 2
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/133958
-#EXTINF:-1 tvg-in="Azam Sports 3" tvg-name="Azam Sports 3" tvg-logo="Azam_Sports_3.png",Azam Sports 3
+#EXTINF:-1 tvg-in="Azam Sports 3" tvg-name="Azam Sports 3" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Azam%20Sports%203%20HD.png",Azam Sports 3
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/133957
-#EXTINF:-1 tvg-id="Sinema Zetu" tvg-name="sinema zetu" tvg-logo="bbc_one.png",sinema zetu
+#EXTINF:-1 tvg-id="Sinema Zetu" tvg-name="sinema zetu" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Sinema%20Zetu.png",sinema zetu
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/143249
-#EXTINF:-1 tvg-in="UTV" tvg-name="UTV" tvg-logo="UTV.png",UTV
+#EXTINF:-1 tvg-in="UTV" tvg-name="UTV" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/UTV%20copy.png",UTV
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/161005
-#EXTINF:-1 tvg-in="African Movie Channel" tvg-name="African Movie Channel" tvg-logo="African Movie Channel.png",African Movie Channel
+#EXTINF:-1 tvg-in="African Movie Channel" tvg-name="African Movie Channel" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/African%20Movie%20Channel.png",African Movie Channel
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134417
-#EXTINF:-1 tvg-in="African Movie Series" tvg-name="African Movie Series" tvg-logo="African Movie Series.png",African Movie Series
+#EXTINF:-1 tvg-in="African Movie Series" tvg-name="African Movie Series" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/African%20Movie%20Channel.png",African Movie Series
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134416
-#EXTINF:-1 tvg-in="Arise & Shine" tvg-name="Arise & Shine" tvg-logo="Arise & Shine.png",Arise & Shine
+#EXTINF:-1 tvg-in="Arise & Shine" tvg-name="Arise & Shine" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Arise%20and%20shine.png",Arise & Shine
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134409
-#EXTINF:-1 tvg-in="CBeebies" tvg-name="CBeebies" tvg-logo="CBeebies.png",CBeebies
+#EXTINF:-1 tvg-in="CBeebies" tvg-name="CBeebies" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Cbeebies.png",CBeebies
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134397
-#EXTINF:-1 tvg-in="Chamuka TV" tvg-name="Chamuka TV" tvg-logo="Chamuka TV.png",Chamuka TV
+#EXTINF:-1 tvg-in="Chamuka TV" tvg-name="Chamuka TV" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Chamuka.png",Chamuka TV
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/157816
-#EXTINF:-1 tvg-in="Channel 44" tvg-name="Channel 44" tvg-logo="Channel 44.png",Channel 44
+#EXTINF:-1 tvg-in="Channel 44" tvg-name="Channel 44" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/44.png",Channel 44
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/157815
-#EXTINF:-1 tvg-in="Channel U" tvg-name="Channel U" tvg-logo="Channel U.png",Channel U
+#EXTINF:-1 tvg-in="Channel U" tvg-name="Channel U" group-title="AZAMTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png",Channel U
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134408
-#EXTINF:-1 tvg-in="Fix & Fox" tvg-name="Fix & Fox" tvg-logo="Fix & Fox.png",Fix & Fox
+#EXTINF:-1 tvg-in="Fix & Fox" tvg-name="Fix & Fox" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Fix%20Foxy.png",Fix & Fox
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134412
-#EXTINF:-1 tvg-in="Foodies" tvg-name="Foodies" tvg-logo="Foodies.png",Foodies
+#EXTINF:-1 tvg-in="Foodies" tvg-name="Foodies" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Foodies.png",Foodies
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134415
-#EXTINF:-1 tvg-in="Juve" tvg-name="Juve" tvg-logo="Juve.png",Juve
+#EXTINF:-1 tvg-in="Juve" tvg-name="Juve" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Jive.png",Juve
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134407
-#EXTINF:-1 tvg-in="Kenya TV" tvg-name="Kenya TV" tvg-logo="Kenya TV.png",Kenya TV
+#EXTINF:-1 tvg-in="Kenya TV" tvg-name="Kenya TV" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Keytona372ded.png",Kenya TV
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134400
-#EXTINF:-1 tvg-in="Kix" tvg-name="Kix" tvg-logo="Kix.png",Kix
+#EXTINF:-1 tvg-in="Kix" tvg-name="Kix" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Kix4911f4.png",Kix
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134403
-#EXTINF:-1 tvg-in="KSTV" tvg-name="KSTV" tvg-logo="KSTV.png",KSTV
+#EXTINF:-1 tvg-in="KSTV" tvg-name="KSTV" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/KS%20TVS.png",KSTV
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134411
-#EXTINF:-1 tvg-in="KTN" tvg-name="KTN" tvg-logo="KTN.png",KTN
+#EXTINF:-1 tvg-in="KTN" tvg-name="KTN" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Ktnf0108b.png",KTN
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134404
-#EXTINF:-1 tvg-in="KTN Armer" tvg-name="KTN Armer" tvg-logo="KTN Armer.png",KTN Armer
+#EXTINF:-1 tvg-in="KTN Armer" group-title="AZAMTV" tvg-name="KTN Armer" tvg-logo="https://web1.azamtvltd.co.tz/files/Ktnf0108b.png",KTN Armer
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134402
-#EXTINF:-1 tvg-in="KTN News" tvg-name="KTN News" tvg-logo="KTN News.png",KTN News
+#EXTINF:-1 tvg-in="KTN News" tvg-name="KTN News" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/Ktn%20News.png",KTN News
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134401
-#EXTINF:-1 tvg-in="KTV" tvg-name="KTV" tvg-logo="KTV.png",KTV
+#EXTINF:-1 tvg-in="KTV" tvg-name="KTV" group-title="AZAMTV" tvg-logo="https://web1.azamtvltd.co.tz/files/K%20TV.png",KTV
 http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134410
+
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Action" tvg-logo="https://images.supersport.com/media/vmvnci34/action_100x100.png" group-title="DSTV",SuperSport Action
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127678
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Blitz" tvg-logo="https://images.supersport.com/media/s5zfga3b/blitz_100x100.png" group-title="DSTV",SuperSport Blitz
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127679
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Cricket" tvg-logo="https://images.supersport.com/media/dsxho3nn/cricket_100x100.png" group-title="DSTV",SuperSport Cricket
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127680
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Football" tvg-logo="https://images.supersport.com/media/ojff2zjp/football_100x100.png" group-title="DSTV",SuperSport Football
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127681
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Football Plus" tvg-logo="https://images.supersport.com/media/ojff2zjp/football_100x100.png" group-title="DSTV",SuperSport Football Plus
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/131817
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Golf" tvg-logo="https://images.supersport.com/media/1fzlomzq/golf_100x100.png" group-title="DSTV",SuperSport Golf
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127682
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Grandstand" tvg-logo="https://images.supersport.com/media/aq5docjr/grandstand_100x100.png" group-title="DSTV",SuperSport Grandstand
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127683
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport La Liga" tvg-logo="https://images.supersport.com/media/3ibh4gw2/laliga_100x100.png" group-title="DSTV",SuperSport La Liga
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127684
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport LIYU Ethiopia" tvg-logo="https://images.supersport.com/media/kylpwduo/multiple-channels.png" group-title="DSTV",SuperSport LIYU Ethiopia
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/132186
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Maximo 1" tvg-logo="https://images.supersport.com/media/va1f2tm3/maximo1_100x100.png" group-title="DSTV",SuperSport Maximo 1
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127685
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Maximo 2" tvg-logo="https://images.supersport.com/media/kylpwduo/multiple-channels.png" group-title="DSTV",SuperSport Maximo 2
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/132189
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Maximo 3" tvg-logo="https://images.supersport.com/media/kylpwduo/multiple-channels.png" group-title="DSTV",SuperSport Maximo 3
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/132425
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Maximo 360" tvg-logo="https://images.supersport.com/media/kylpwduo/multiple-channels.png" group-title="DSTV",SuperSport Maximo 360
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/132426
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Motorsport" tvg-logo="https://images.supersport.com/media/l5vekroz/motorsport_100x100.png" group-title="DSTV",SuperSport Motorsport
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127686
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Premier League" tvg-logo="https://images.supersport.com/media/kylpwduo/multiple-channels.png" group-title="DSTV",SuperSport Premier League
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127688
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Play" tvg-logo="https://images.supersport.com/media/kylpwduo/multiple-channels.png" group-title="DSTV",SuperSport Play
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127687
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport PSL" tvg-logo="https://images.supersport.com/media/xm4pazop/psl_100x100.png" group-title="DSTV",SuperSport PSL
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127689
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Rugby" tvg-logo="https://images.supersport.com/media/wlaj051b/rugby_100x100.png" group-title="DSTV",SuperSport Rugby
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127690
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Tennis" tvg-logo="https://images.supersport.com/media/yiiefgd2/tennis_100x100.png" group-title="DSTV",SuperSport Tennis
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127691
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Variety 1" tvg-logo="https://images.supersport.com/media/rzfgq33s/variety1_100x100.png" group-title="DSTV",SuperSport Variety 1
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127692
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Variety 2" tvg-logo="https://images.supersport.com/media/bizfe1jw/variety2_100x100.png" group-title="DSTV",SuperSport Variety 2
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127693
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Variety 3" tvg-logo="https://images.supersport.com/media/zeeddnlh/variety3_100x100.png" group-title="DSTV",SuperSport Variety 3
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127694
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport Variety 4" tvg-logo="https://images.supersport.com/media/v1rgxmj4/variety4_100x100.png" group-title="DSTV",SuperSport Variety 4
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/127695
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport WWE" tvg-logo="https://images.supersport.com/media/kylpwduo/multiple-channels.png" group-title="DSTV",SuperSport WWE
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/128677
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport 4K UHD" tvg-logo="https://images.supersport.com/media/kylpwduo/multiple-channels.png" group-title="DSTV",SuperSport 4K UHD
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/124493
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport OTT 1" tvg-logo="https://images.supersport.com/media/xx1bbv2i/ott1_100x100.png" group-title="DSTV",SuperSport OTT 1
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/128709
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport OTT 2" tvg-logo="https://images.supersport.com/media/inda4sje/ott2_100x100.png" group-title="DSTV",SuperSport OTT 2
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/128708
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport OTT 3" tvg-logo="https://images.supersport.com/media/4zofy4ey/ott3_100x100.png" group-title="DSTV",SuperSport OTT 3
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/128707
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport OTT 4" tvg-logo="https://images.supersport.com/media/kylpwduo/multiple-channels.png" group-title="DSTV",SuperSport OTT 4
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/128706
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport OTT 5" tvg-logo="https://images.supersport.com/media/i5ihjeyo/ott5_100x100.png" group-title="DSTV",SuperSport OTT 5
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/128705
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport OTT 6" tvg-logo="https://images.supersport.com/media/5lgiktgg/ott6_100x100.png" group-title="DSTV",SuperSport OTT 6
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/128704
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport OTT 7" tvg-logo="https://images.supersport.com/media/bn1fsl1u/ott7_100x100.png" group-title="DSTV",SuperSport OTT 7
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/128703
+#EXTINF:-1 tvg-ID="" tvg-name="SuperSport OTT 8" tvg-logo="https://images.supersport.com/media/zpapmbby/ott8_100x100.png" group-title="DSTV",SuperSport OTT 8
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/128702
