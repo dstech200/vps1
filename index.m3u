@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:-1 tvg-in="azam one" tvg-name="azam one" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FAzam_One&psig=AOvVaw1BaF5fA7lpI9NpuxvGQa2p&ust=1720908053041000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCKi71Z3AoocDFQAAAAAdAAAAABAE",azam one
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/143247
+#EXTINF:-1 tvg-in="azam two" tvg-name="azam two" tvg-logo="https://i.pinimg.com/280x280_RS/86/3e/74/863e74b66c34896ea651f3cc04afd9b4.jpg",azam two
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/143248
+#EXTINF:-1 tvg-in="Azam Sports 1" tvg-name="Azam Sports 1" tvg-logo="Azam_Sports_1.png",Azam Sports 1
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/133959
+#EXTINF:-1 tvg-in="Azam Sports 2" tvg-name="Azam Sports 2" tvg-logo="Azam_Sports_2.png",Azam Sports 2
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/133958
+#EXTINF:-1 tvg-in="Azam Sports 3" tvg-name="Azam Sports 3" tvg-logo="Azam_Sports_3.png",Azam Sports 3
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/133957
+#EXTINF:-1 tvg-id="Sinema Zetu" tvg-name="sinema zetu" tvg-logo="bbc_one.png",sinema zetu
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/143249
+#EXTINF:-1 tvg-in="UTV" tvg-name="UTV" tvg-logo="UTV.png",UTV
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/161005
+#EXTINF:-1 tvg-in="African Movie Channel" tvg-name="African Movie Channel" tvg-logo="African Movie Channel.png",African Movie Channel
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134417
+#EXTINF:-1 tvg-in="African Movie Series" tvg-name="African Movie Series" tvg-logo="African Movie Series.png",African Movie Series
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134416
+#EXTINF:-1 tvg-in="Arise & Shine" tvg-name="Arise & Shine" tvg-logo="Arise & Shine.png",Arise & Shine
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134409
+#EXTINF:-1 tvg-in="CBeebies" tvg-name="CBeebies" tvg-logo="CBeebies.png",CBeebies
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134397
+#EXTINF:-1 tvg-in="Chamuka TV" tvg-name="Chamuka TV" tvg-logo="Chamuka TV.png",Chamuka TV
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/157816
+#EXTINF:-1 tvg-in="Channel 44" tvg-name="Channel 44" tvg-logo="Channel 44.png",Channel 44
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/157815
+#EXTINF:-1 tvg-in="Channel U" tvg-name="Channel U" tvg-logo="Channel U.png",Channel U
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134408
+#EXTINF:-1 tvg-in="Fix & Fox" tvg-name="Fix & Fox" tvg-logo="Fix & Fox.png",Fix & Fox
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134412
+#EXTINF:-1 tvg-in="Foodies" tvg-name="Foodies" tvg-logo="Foodies.png",Foodies
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134415
+#EXTINF:-1 tvg-in="Juve" tvg-name="Juve" tvg-logo="Juve.png",Juve
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134407
+#EXTINF:-1 tvg-in="Kenya TV" tvg-name="Kenya TV" tvg-logo="Kenya TV.png",Kenya TV
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134400
+#EXTINF:-1 tvg-in="Kix" tvg-name="Kix" tvg-logo="Kix.png",Kix
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134403
+#EXTINF:-1 tvg-in="KSTV" tvg-name="KSTV" tvg-logo="KSTV.png",KSTV
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134411
+#EXTINF:-1 tvg-in="KTN" tvg-name="KTN" tvg-logo="KTN.png",KTN
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134404
+#EXTINF:-1 tvg-in="KTN Armer" tvg-name="KTN Armer" tvg-logo="KTN Armer.png",KTN Armer
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134402
+#EXTINF:-1 tvg-in="KTN News" tvg-name="KTN News" tvg-logo="KTN News.png",KTN News
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134401
+#EXTINF:-1 tvg-in="KTV" tvg-name="KTV" tvg-logo="KTV.png",KTV
+http://icecanare.fun:8080/mKEPdhFnc25g/msrBjthKr83d/134410
